@@ -1,0 +1,7 @@
+{
+  "name": "ionic-positive",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
